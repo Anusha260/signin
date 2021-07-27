@@ -1,0 +1,14 @@
+{
+  "user": [
+    {
+      "Username": "Nanabala Anusha",
+      "Password": "Anusha@26",
+      "Profile": {
+        "description": "study",
+        "d_o_b": "14/02/1999",
+        "Gender": "female",
+        "Hobbies": "graden"
+      }
+    }
+  ]
+}
